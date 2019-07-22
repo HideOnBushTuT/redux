@@ -26,6 +26,7 @@ if (
   )
 }
 
+/*** 导出文件 */
 export {
   createStore,
   combineReducers,
